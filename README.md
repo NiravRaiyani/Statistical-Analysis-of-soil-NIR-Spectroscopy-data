@@ -1,3 +1,3 @@
 # Statistical-Analysis-of-soil-NIR-Spectroscopy-data
 Statistical Model describing the relationship between NIR Spectroscopy data and Chemical and Microbiological properties of the soil
-![](Nirav Raiyani - CHE 694 - Term Project.pdf)
+![](Project_Report.pdf)
